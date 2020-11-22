@@ -72,23 +72,23 @@ Oto co musisz zrobić, żeby zobaczyć efekt i zacząć development:
 1. Wykonaj fork tego repozytorium do swojego własnego profilu. 
 Po kliknięciu przycisku pokazanego poniżej GitHub przeniesie Cię automatycznie na Twoją kopię tego repozytorium.
 To tutaj będziesz wykonywać swoją stronę.
-![./.github/images/Project1Prepare1.png](./.github/images/Project1Prepare1.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare1.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare1.png)
 1. Przejdź do zakładki Settings w Twoim repozytorium.
-![./.github/images/Project1Prepare2.png](./.github/images/Project1Prepare2.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare2.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare2.png)
 1. Znajdź w zakładce setting sekcję GitHub Pages i wybierz branch master jako source.
-![./.github/images/Project1Prepare3.png](./.github/images/Project1Prepare3.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare3.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare3.png)
 1. Po wyborze brancha master, zatwierdź ustawienia, klikając przycisk `Save`. 
 Wszystko powinno wyglądać tak jak w czerwonym polu poniżej.
 Dzięki temu aktywujesz GitHub Pages dla swojego repozytorium.
-![./.github/images/Project1Prepare4.png](./.github/images/Project1Prepare4.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare4.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare4.png)
 1. Znajdź sekcję GitHub Pages w zakładce Setting jeszcze raz.
 Teraz powinien znajdować się w tym miejscu link. Po kliknięciu zaprowadzi Cię do Twojej strony.
 Ten link możesz przekazać teraz kolegom z zespołu i mentorowi. 
 Będą mogli dać Ci cenne wskazówki i pomóc z błędami bez pobierania całego repozytorium.
 A Twoja strona jest od razu dostępna w internecie dla każdego, kto chciałby ją odwiedzić. I to kompletnie za darmo!
-![./.github/images/Project1Prepare5.png](./.github/images/Project1Prepare5.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare5.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare5.png)
 1. Jeśli po kliknięciu w link, pokazała Ci się strona o tej treści, to znaczy, że wszystko jest w porządku.
-![./.github/images/Project1Prepare6.png](./.github/images/Project1Prepare6.png)
+![https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare6.png](https://github.com/CodersCamp2020/CodersCamp2020.Project.HTML-CSS.BusinessCard/blob/main/.github/images/Project1Prepare6.png)
 
 Od teraz każda zmiana, jaką commitujesz do głównego brancha, będzie się pokazywać pod tym adresem.
 Masz już działające środowisko, więc na co czekasz? Do dzieła!
